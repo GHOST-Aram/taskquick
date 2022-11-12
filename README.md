@@ -1,0 +1,2 @@
+# TaskQuick
+TaskQuick project is a web app that will help connect people with small tasks that requires a few hours or days of work to complete to intersted people with relevant skills for completion of those tasks
