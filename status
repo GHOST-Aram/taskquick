@@ -1,0 +1,41 @@
+[33mcommit 6568910d316f5f4424bc12b727c761a8c72ae6b7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: GHOST-Aram <owinoojala@gmail.com>
+Date:   Mon Nov 14 19:18:08 2022 +0300
+
+    Add border-bottom to header
+
+[33mcommit 2d0b593ae189b3dfc936b71d5b09d42e88b3125c[m
+Author: GHOST-Aram <owinoojala@gmail.com>
+Date:   Mon Nov 14 19:12:30 2022 +0300
+
+    Create Security and safety section
+
+[33mcommit f513c5a39fab8afbbb9244c39250353c2385cbfa[m
+Author: GHOST-Aram <owinoojala@gmail.com>
+Date:   Mon Nov 14 18:28:16 2022 +0300
+
+    Create grid for common tasks
+
+[33mcommit 698091146d6ae49630751869c72e6e9763da3be3[m
+Author: GHOST-Aram <owinoojala@gmail.com>
+Date:   Mon Nov 14 18:26:56 2022 +0300
+
+    Create task type section
+
+[33mcommit 01d992ef7648b73218ab06180fad05bc77e65e8b[m
+Author: GHOST-Aram <owinoojala@gmail.com>
+Date:   Mon Nov 14 18:25:29 2022 +0300
+
+    Create Showcase aka Hero
+
+[33mcommit b0cf9963028f3af5a6623aff7154d2900f6eba95[m
+Author: GHOST-Aram <owinoojala@gmail.com>
+Date:   Mon Nov 14 18:19:16 2022 +0300
+
+    Create header section
+
+[33mcommit f38db4f1c8416a314a9ba510b791d96d311bdbdb[m
+Author: GHOST-Aram <owinoojala@gmail.com>
+Date:   Sat Nov 12 15:27:42 2022 +0300
+
+    Initial commit
